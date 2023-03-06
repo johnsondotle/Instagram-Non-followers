@@ -10,3 +10,7 @@ Working as of 02/11/23
 4. Download the file, and extract the two JSON files "following.json", and "followers.json" from the "followers_and_following" folder.
 5. Place the two extracted JSON files into the same folder as the Python file.
 6. Compile the code to display results.
+
+# Update as of 03/06/23:
+"TypeError: list indices must be integers or slices, not str"
+Refer to solution here: https://github.com/johnsondotle/Instagram-Non-followers/issues/1#issuecomment-1457188904
