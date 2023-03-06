@@ -14,3 +14,7 @@ Working as of 02/11/23
 # Update as of 03/06/23:
 "TypeError: list indices must be integers or slices, not str"
 Refer to solution here: https://github.com/johnsondotle/Instagram-Non-followers/issues/1#issuecomment-1457188904
+
+# Future Plans For Program:
+1. Update code for fluency and user-friendly usage.
+2. Integration of Flask for web development.
