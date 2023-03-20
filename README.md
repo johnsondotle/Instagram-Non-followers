@@ -1,5 +1,5 @@
 # Instagram Non-followers
-An Instagram bot allowing users to check their Instagram account followings to discover which are not following back the user.
+An Instagram program allowing users to check their Instagram account followings to discover which are not following back the user.
 
 # How To Use:
 Working as of 02/11/23
