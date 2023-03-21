@@ -24,7 +24,7 @@ for following in following_json["relationships_following"]:
 for follower in followers_json["relationships_followers"]:
     follower = follower["string_list_data"][0]["value"]
     if follower in users_not_following:
-# Resulting only users with no mutual connections of users not following back the account.
+# Resulting only users with no mutual connections of users not following back the account
         users_not_following.remove(follower)
 
 # Displays results
